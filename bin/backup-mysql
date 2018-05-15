@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync $RSYNC_OPTIONS /var/lib/mysql/ /var/lib/mysql-backup/
